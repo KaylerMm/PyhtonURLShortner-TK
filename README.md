@@ -11,4 +11,4 @@ This is a very straightforward Python URL shortener using TKinter and TinyURL
 ## Contributions
 Contributions to make it better are welcome!
 
-# Made with ❤️ by Kayler Moura
+### Made with ❤️ by Kayler Moura
